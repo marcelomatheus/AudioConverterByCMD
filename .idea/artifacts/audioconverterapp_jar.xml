@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="audioconverterapp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/audioconverterapp_jar</output-path>
+    <root id="archive" name="audioconverter.jar">
+      <element id="module-output" name="audioconverter" />
+    </root>
+  </artifact>
+</component>
